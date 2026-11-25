@@ -1,0 +1,1 @@
+{"description":"One funny excuse line from an AI agent after missing a deadline, entered on make.fun.","engines":{"node":">=22.18"},"name":"excuse-my-agent-gave-me","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
